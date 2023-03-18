@@ -2,9 +2,7 @@
 - 👀 I’m interested in developing products.
 - 🌱 I’m currently learning React, node and mongodb.
 - 💞️ I’m looking to collaborate with developers.
-- 📫 
-
-<h1> fsdfds</h1>
+- 📫 You can reach me at <a href="https://www.linkedin.com/in/rudra-prasanna-singh/">LinkedIn</a>
 - 
 
 <!---
