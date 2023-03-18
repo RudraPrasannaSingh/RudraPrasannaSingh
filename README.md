@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @RudraPrasannaSingh
 - 👀 I’m interested in developing products.
 - 🌱 I’m currently learning React, node and mongodb.
-- 💞️ I’m looking to collaborate on web developers.
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate with developers.
+- 📫 
+
+<h1> fsdfds</h1>
+- 
 
 <!---
 RudraPrasannaSingh/RudraPrasannaSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
