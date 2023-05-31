@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @RudraPrasannaSingh
+- 👋 Hi, I’m @<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rudra-prasanna-singh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rudra-prasanna-singh?trk=profile-badge">Rudra Prasanna Singh</a></div>
+              
 - 👀 I’m interested in developing products.
 - 🌱 I’m currently learning React, node and mongodb.
 - 💞️ I’m looking to collaborate with developers.
